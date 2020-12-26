@@ -16,4 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+```text
+PHP          7 hrs 36 mins   ██████████████▓░░░░░░░░░░   58.47 % 
+JavaScript   2 hrs 43 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.91 % 
+HTML         2 hrs 21 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+YAML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+```
 <!--END_SECTION:waka-->
