@@ -7,7 +7,7 @@ Welcome to my GitHub! I work as developer since 2017, always trying to improve m
 - Team Leader at [G2i](http://grupog2i.com.br)
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png" width="20" height="20"/> Get in touch
-[![GMail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mateusragazzi.b@gmail.com)](malito:mateusragazzi.b@gmail.com)
+[![GMail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=http://mailto:mateusragazzi.b@gmail.com)](http://malito:mateusragazzi.b@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/r_mateus39)](https://twitter.com/r_mateus39)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-ragazzi/)](https://www.linkedin.com/in/mateus-ragazzi/)
 
