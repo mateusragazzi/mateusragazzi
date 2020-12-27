@@ -14,4 +14,11 @@ Welcome to my GitHub! I work as developer since 2017, always trying to improve m
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png" width="20" height="20"/> Some stats of my week
 
 <!--START_SECTION:waka-->
+```text
+PHP          7 hrs 36 mins   ██████████████▓░░░░░░░░░░   58.47 % 
+JavaScript   2 hrs 43 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.91 % 
+HTML         2 hrs 21 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+YAML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+```
 <!--END_SECTION:waka-->
