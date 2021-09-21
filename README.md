@@ -15,10 +15,10 @@ Welcome to my GitHub! I work as developer since 2017, always trying to improve m
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   6 hrs 16 mins   ███████████████░░░░░░░░░░   60.47 % 
-HTML         2 hrs           ████▓░░░░░░░░░░░░░░░░░░░░   19.27 % 
-PHP          46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-TypeScript   39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-JSON         29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+JavaScript   6 hrs 16 mins   ███████████████░░░░░░░░░░   60.64 % 
+HTML         2 hrs           ████▓░░░░░░░░░░░░░░░░░░░░   19.33 % 
+PHP          46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+TypeScript   39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+JSON         29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
 ```
 <!--END_SECTION:waka-->
