@@ -14,10 +14,14 @@ Welcome to my GitHub! I work as developer since 2017, always trying to improve m
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png" width="20" height="20"/> What I'm coding
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   12 hrs 45 mins  ██████████████████████▓░░   91.09 % 
-TypeScript   49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-JSON         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-Python       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+JavaScript    2 hrs 45 mins   █████████████████░░░░░░░░   67.41 %
+TypeScript    31 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
+Text          29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
+JSON          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Vue.js        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Markdown      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
+
 <!--END_SECTION:waka-->
