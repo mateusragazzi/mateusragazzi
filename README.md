@@ -16,12 +16,12 @@ Welcome to my GitHub! I work as developer since 2017, always trying to improve m
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       4 hrs 19 mins   █████████▓░░░░░░░░░░░░░░░   38.99 %
-PHP              2 hrs 32 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.87 %
-Blade Template   1 hr 4 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
-Vue.js           57 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
-JSON             51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
-CSS              44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+CSS              3 hrs 32 mins   ███████░░░░░░░░░░░░░░░░░░   28.06 %
+JavaScript       3 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   24.29 %
+PHP              1 hr 53 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
+Blade Template   1 hr 48 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
+JSON             53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+Other            30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
 ```
 
 <!--END_SECTION:waka-->
