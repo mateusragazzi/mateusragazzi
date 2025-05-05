@@ -16,11 +16,11 @@ Welcome to my GitHub! I work as developer since 2017, always trying to improve m
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 15 mins    ████████████▒░░░░░░░░░░░░   48.74 %
-TypeScript   36 mins         ██████░░░░░░░░░░░░░░░░░░░   23.85 %
-Vue.js       24 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.06 %
-Bash         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
-Other        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+JavaScript   39 mins         ██████████░░░░░░░░░░░░░░░   40.60 %
+Vue.js       25 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.62 %
+PHP          15 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
+TypeScript   13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
+JSON         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
 <!--END_SECTION:waka-->
