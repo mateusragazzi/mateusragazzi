@@ -4,7 +4,7 @@ Welcome to my GitHub! I work as developer since 2017, always trying to improve m
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png" width="20" height="20" /> Currently on:
 - Information Systems at [UFMS](https://www.ufms.br) :mortar_board:
-- Mobile Developer at [Capgemini](https://www.capgemini.com)
+- Senior Developer at [Quave](https://quave.dev)
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png" width="20" height="20"/> Get in touch
 [![GMail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=http://mailto:mateusragazzi.b@gmail.com)](http://malito:mateusragazzi.b@gmail.com)
