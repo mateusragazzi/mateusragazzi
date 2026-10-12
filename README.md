@@ -16,10 +16,7 @@ Welcome to my GitHub! I work as developer since 2017, always trying to improve m
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   9 mins                ███████████░░░░░░░░░░░░░░   43.42 %
-JSON       9 mins                ██████████▒░░░░░░░░░░░░░░   41.99 %
-Text       3 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
-nvmrc      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
