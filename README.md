@@ -16,7 +16,10 @@ Welcome to my GitHub! I work as developer since 2017, always trying to improve m
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash         6 mins                ██████████████████▒░░░░░░   72.85 %
+JavaScript   1 min                 ████▓░░░░░░░░░░░░░░░░░░░░   18.46 %
+Git Config   0 secs                ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+JSON         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
